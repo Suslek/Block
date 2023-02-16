@@ -1,0 +1,7 @@
+C:\Users\tte4e\source\repos\Block\Block\bin\Debug\Block.exe.config
+C:\Users\tte4e\source\repos\Block\Block\bin\Debug\Block.exe
+C:\Users\tte4e\source\repos\Block\Block\bin\Debug\Block.pdb
+C:\Users\tte4e\source\repos\Block\Block\obj\Debug\Block.csproj.AssemblyReference.cache
+C:\Users\tte4e\source\repos\Block\Block\obj\Debug\Block.csproj.CoreCompileInputs.cache
+C:\Users\tte4e\source\repos\Block\Block\obj\Debug\Block.exe
+C:\Users\tte4e\source\repos\Block\Block\obj\Debug\Block.pdb
